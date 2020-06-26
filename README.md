@@ -1,4 +1,4 @@
 # hello-world
 Hi Humans!
 
-Retired software developer here, transitioning to Linux development.
+Retired software developer here, transitioning to Linux development from Windows.
