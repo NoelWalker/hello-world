@@ -1,0 +1,11 @@
+/home/noel/git/hello-world/bin/Debug/netcoreapp3.1/helloworld
+/home/noel/git/hello-world/bin/Debug/netcoreapp3.1/helloworld.deps.json
+/home/noel/git/hello-world/bin/Debug/netcoreapp3.1/helloworld.runtimeconfig.json
+/home/noel/git/hello-world/bin/Debug/netcoreapp3.1/helloworld.runtimeconfig.dev.json
+/home/noel/git/hello-world/bin/Debug/netcoreapp3.1/helloworld.dll
+/home/noel/git/hello-world/bin/Debug/netcoreapp3.1/helloworld.pdb
+/home/noel/git/hello-world/obj/Debug/netcoreapp3.1/helloworld.csprojAssemblyReference.cache
+/home/noel/git/hello-world/obj/Debug/netcoreapp3.1/helloworld.AssemblyInfoInputs.cache
+/home/noel/git/hello-world/obj/Debug/netcoreapp3.1/helloworld.AssemblyInfo.cs
+/home/noel/git/hello-world/obj/Debug/netcoreapp3.1/helloworld.dll
+/home/noel/git/hello-world/obj/Debug/netcoreapp3.1/helloworld.pdb
